@@ -1,0 +1,22 @@
+This is a fork form jailkit 2.14
+==================================
+http://olivier.sessink.nl/jailkit/
+
+I highly recommend user to go to the official site instead.
+Here is only my endeavor to firstly make a friendly version 
+to be used in Ubuntu 11.04 VM instance, in practicular I will 
+resolve the 64-bit files paths. So this should be no big deal 
+at all. 
+
+If it happened that I feel the progress is good, I will try 
+to contact the jailkit-dev and feed back if there are any 
+usable/patchable files. 
+
+And I do this on GitHub mainly for recording the changes. 
+
+Won't update frequently, do not expect from me :D
+
+==================================
+CodeName: Usavich
+==================================
+
